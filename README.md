@@ -1,3 +1,7 @@
+
+NDK r23以后变化较大，使用r21、r22
+
+
 1、查看apk包名
 
 2、修改inject.c文件中倒数第二行的包名target_pid = find_pid_of("包名");
